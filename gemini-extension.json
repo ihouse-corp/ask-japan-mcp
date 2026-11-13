@@ -1,0 +1,10 @@
+{
+  "name": "ask-japan",
+  "version": "1.1.0",
+  "description": "Japanese company, invoice and postcode data, plus real people in Japan for phone calls, reservations and errands.",
+  "mcpServers": {
+    "ask-japan": {
+      "httpUrl": "https://askjapan.senpinai.com/mcp"
+    }
+  }
+}
